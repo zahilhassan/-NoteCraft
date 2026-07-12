@@ -66,7 +66,7 @@ A beautiful and modern note-taking application featuring elegant note cards, a p
 ## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://zahilhassan.github.io/NoteCraft/" target="_blank">
+  <a href="https://zahilhassan.github.io/-NoteCraft/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2962FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo">
   </a>
 </p>
