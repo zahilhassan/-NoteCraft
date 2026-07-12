@@ -1,6 +1,6 @@
-# 📝 Notes App
+# 📝 NoteCraft
 
-A modern and responsive **Notes App** built with **HTML**, **CSS**, and **JavaScript**. Create, organize, edit, and manage your notes with a clean interface, powerful features, and automatic local storage support.
+A modern and responsive **NoteCraft** application built with **HTML**, **CSS**, and **JavaScript**. Create, organize, edit, and manage your notes with a clean interface, powerful features, and automatic Local Storage support. Designed with a premium glassmorphism UI and a seamless user experience.
 
 ---
 
@@ -44,7 +44,7 @@ A modern and responsive **Notes App** built with **HTML**, **CSS**, and **JavaSc
 ## 📂 Project Structure
 
 ```text
-Notes-App/
+NoteCraft/
 │── index.html
 │── style.css
 │── script.js
@@ -59,14 +59,14 @@ Notes-App/
 
 ## 📸 Preview
 
-A beautiful and minimal note-taking application with a modern dashboard, elegant note cards, smooth animations, and a premium user experience.
+A beautiful and modern note-taking application featuring elegant note cards, a premium dashboard, smooth animations, and an intuitive user experience.
 
 ---
 
 ## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://zahilhassan.github.io/Notes-App/" target="_blank">
+  <a href="https://zahilhassan.github.io/NoteCraft/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2962FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo">
   </a>
 </p>
